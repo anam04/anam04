@@ -7,7 +7,7 @@
 * 🔬 My interests lie at the crossroads of technology, computer science, and design.
 * 💞 I am looking to collaborate to create meaningful and innovative projects in the tech space.
   
-## Skills
+## SKILLS
 ## Languages/Frameworks/libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
