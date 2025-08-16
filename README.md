@@ -24,7 +24,8 @@ I'm currently a Junior at Ashoka University pursuing a major in Computer Science
 ## Software
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
-![QGIS](https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/qgis-logo.png)
+![QGIS](https://img.shields.io/badge/QGIS--GIS-3a8f3e?style=flat-square&logo=data:image/png;base64,PASTE_BASE64_HERE)
+
 
 ## Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
