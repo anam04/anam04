@@ -1,10 +1,10 @@
 ## Hi there! Anam Ahamed here 👋
 
+I'm currently a Junior at Ashoka University pursuing a major in Computer Science and Mathematics with a minor in Biology.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anam-ahamed-3b1959224/)
 
 
 * 📩 How to reach me: anamahamed457@gmail.com
-* 🔬 My interests lie at the crossroads of technology, computer science, and design.
 * 💞 I am looking to collaborate to create meaningful and innovative projects in the tech space.
   
 ## SKILLS
