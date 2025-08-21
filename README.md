@@ -8,8 +8,7 @@ I'm Anam, currently a Junior at Ashoka University pursuing a major in Computer S
 
 * 📩 How to reach me: anamahamed457@gmail.com
 * 💞 I am looking to collaborate to create meaningful and innovative projects in the tech space.
-
-## SKILLS
+  
 ## Languages/Frameworks/libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
