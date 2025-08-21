@@ -1,16 +1,14 @@
-<h1 align="center">
-  Hi there! 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
 
+Hi there! 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm currently a Junior at Ashoka University pursuing a major in Computer Science and Mathematics with a minor in Biology.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anam-ahamed-3b1959224/)
+I'm Anam, currently a Junior at Ashoka University pursuing a major in Computer Science and Mathematics with a minor in Biology.
+
 
 
 * 📩 How to reach me: anamahamed457@gmail.com
 * 💞 I am looking to collaborate to create meaningful and innovative projects in the tech space.
-  
+
 ## SKILLS
 ## Languages/Frameworks/libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,6 +32,8 @@ I'm currently a Junior at Ashoka University pursuing a major in Computer Science
 
 ## OS/Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
