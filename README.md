@@ -1,4 +1,8 @@
-## Hi there!![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png) 
+<h1 align="center">
+  Hi there! 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
+
 
 I'm currently a Junior at Ashoka University pursuing a major in Computer Science and Mathematics with a minor in Biology.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anam-ahamed-3b1959224/)
